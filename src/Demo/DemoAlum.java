@@ -11,14 +11,14 @@ public class DemoAlum {
          
          
                  
-//         System.out.println("JDK12 "+A1.getcodigo());
-//         System.out.println("Jose Antonio"+A1.getNombre());
-//         System.out.println("Condor Quicano"+A1.getApellido());
-//         System.out.println("5"+A1.getaEstudio());
-//         System.out.println("15"+A1.getexaParcial());
-//         System.out.println("16"+A1.getexaFinal());
-//         System.out.println("17"+A1.getpromPracticas());
-//         
+         System.out.println("JDK12 "+A1.getcodigo());
+         System.out.println("Jose Antonio"+A1.getNombre());
+         System.out.println("Condor Quicano"+A1.getApellido());
+         System.out.println("5"+A1.getaEstudio());
+         System.out.println("15"+A1.getexaParcial());
+         System.out.println("16"+A1.getexaFinal());
+         System.out.println("17"+A1.getpromPracticas());
+         
         
         
     }
